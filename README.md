@@ -56,25 +56,8 @@ Currently:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdsaifulsaif&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsaifulsaif&theme=dark&layout=compact" alt="Top Languages" />
- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsaifulsaif&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
+
 </p>
 
 ---
 
-## 📌 Pinned Projects
-
-### 1. [**<Project-One>**](https://github.com/mdsaifulsaif/project-one)  
-**Description:** A tourism website built with Next.js showcasing travel destinations.  
-**Tech Stack:** Next.js, TailwindCSS, Firebase  
-**Features:**  
-- Destination listing, search, and filter  
-- User auth & Firebase data storage  
-- Responsive design, SEO-friendly  
-**How to run:**  
-```bash
-git clone https://github.com/mdsaifulsaif/project-one.git
-cd project-one
-npm install
-npm run dev
