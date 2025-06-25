@@ -14,7 +14,7 @@
 ## 🌐 Socials:
 <p>
   <a href="mailto:saifulsaif.dev@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mdsaifulsaif" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saiful-saif-3036362b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://web.facebook.com/saiful.saif.801798?_rdc=1&_rdr#" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.behance.net/mdsaifulsaif" target="_blank"><img src="https://img.shields.io/badge/Behance-%23191919.svg?style=for-the-badge&logo=behance&logoColor=white" /></a>
   <a href="https://dribbble.com/mdsaifulsaif" target="_blank"><img src="https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
