@@ -6,11 +6,6 @@ Web developer
 
 * ✉️  You can contact me at [saifulsaif.dev@gmail.com](mailto:saifulsaif.dev@gmail.com)
 
-```js
-const greet = (name) => {
-  return `Hello, ${name}!`;
-};
-
 
 
 ## 🌐 Socials:
