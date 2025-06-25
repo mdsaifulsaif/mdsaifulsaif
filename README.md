@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/mdsaifulsaif/mdsaifulsaif/blob/main/assets/Development%20Services%20(1).jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Saiful Saif</h1>
