@@ -1,9 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md. Saiful Saif
-==================================================================================================================================
+<h1 align="center">Hi 👋, I'm Md. Saiful Saif</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/00000000/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="animated waving hand" width="60" />
+</p>
 
-Web developer
 <h3 align="center">💻 Web Developer | Passionate about building functional, user-friendly, and visually appealing web applications</h3>
--------------
+
+---
 
 * ✉️  You can contact me at [saifulsaif.dev@gmail.com](mailto:saifulsaif.dev@gmail.com)
 
