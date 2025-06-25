@@ -6,9 +6,7 @@
 <h1 align="center">Hi 👋, I'm Md. Saiful Saif</h1>
 <h3 align="center">🌐 MERN Stack Web Developer | JavaScript Expert | Open Source Enthusiast</h3>
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/150444850?s=400&u=a8ec9f12499da5bbeb823b216cb6f27651806fd6&v=4" alt="Md. Saiful Saif" width="150" style="border-radius: 50%;" />
-</div>
+
 
 <p align="center">
   📍 Based in Dhaka, Bangladesh • ✉️ <a href="mailto:saifulsaif.dev@gmail.com">saifulsaif.dev@gmail.com</a>
