@@ -56,7 +56,9 @@ Currently:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdsaifulsaif&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsaifulsaif&theme=dark&layout=compact" alt="Top Languages" />
-  <img src="https://raw.githubusercontent.com/mdsaifulsaif/mdsaifulsaif/master/streak-stats.svg" alt="GitHub Streak" />
+ <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsaifulsaif&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 </p>
 
 ---
