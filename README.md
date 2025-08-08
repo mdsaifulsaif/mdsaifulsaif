@@ -1,12 +1,10 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/mdsaifulsaif/mdsaifulsaif/blob/main/assets/Development%20Services%20(1).jpg" alt="Banner" width="100%" />
+  <img src="https://github.com/mdsaifulsaif/mdsaifulsaif/blob/main/assets/mdsaifulsaif-banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Saiful Saif</h1>
 <h3 align="center">🌐 MERN Stack Web Developer | JavaScript Expert | Open Source Enthusiast</h3>
-
-
 
 <p align="center">
   📍 Based in Dhaka, Bangladesh • ✉️ <a href="mailto:saifulsaif.dev@gmail.com">saifulsaif.dev@gmail.com</a>
@@ -15,8 +13,10 @@
 ---
 
 ## 🧑‍💼 About Me
+
 I’m a dedicated MERN Stack web developer focused on crafting sleek, user-friendly web applications. I thrive on collaborating in open source and constantly expanding my skills.  
 Currently:
+
 - Exploring **Next.js** for creating high-performance front-end experiences.
 - Building **a tourism website** to showcase Bangladesh’s cultural heritage.
 - Contributing to open-source projects on GitHub.
@@ -24,6 +24,7 @@ Currently:
 ---
 
 ## ⚙️ Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -41,6 +42,7 @@ Currently:
 ---
 
 ## 💬 Social Links
+
 <p align="center">
   <a href="https://github.com/mdsaifulsaif" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/saiful-saif-3036362b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -53,6 +55,7 @@ Currently:
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdsaifulsaif&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsaifulsaif&theme=dark&layout=compact" alt="Top Languages" />
@@ -60,4 +63,3 @@ Currently:
 </p>
 
 ---
-
